@@ -1,1 +1,1 @@
-# epamcourse
+# Labs
