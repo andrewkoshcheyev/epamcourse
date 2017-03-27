@@ -692,3 +692,47 @@ Quadrangle id=3 has verticies (x = 3.0, y = 5.0), (x = 4.0, y = 12.0), (x = 0.0,
 
 2017-03-26 17:23:52 INFO  QuadrangleDataObserver:29 - Observable entities: 3: Perimeter = 27.42509146986518 Area = 3.7
 
+2017-03-26 23:39:54 INFO  QuadrangleDataObserver:29 - ObservableEntity entities: 0: Perimeter = 40.0 Area = 200.0
+
+2017-03-26 23:39:54 INFO  QuadrangleDataObserver:29 - ObservableEntity entities: 0: Perimeter = 25.19655347739002 Area = 60.0
+
+2017-03-26 23:42:12 INFO  QuadrangleDataObserver:29 - ObservableEntity entities: 0: Perimeter = 40.0 Area = 100.0
+
+2017-03-26 23:42:12 INFO  QuadrangleDataObserver:29 - ObservableEntity entities: 0: Perimeter = 25.19655347739002 Area = 30.0
+
+2017-03-26 23:47:50 INFO  QuadrangleDataObserver:29 - ObservableEntity entities: 0: Perimeter = 40.0 Area = 100.0
+
+2017-03-26 23:47:50 INFO  QuadrangleDataObserver:29 - ObservableEntity entities: 0: Perimeter = 25.19655347739002 Area = 30.0
+
+2017-03-26 23:48:09 INFO  DataReader:69 - Input coordinates is incorrect - wrong coordinates format in line "14 f012ad 8 4 5 10 9.3 6.1"
+
+2017-03-26 23:48:09 INFO  DataReader:61 - Input coordinates is incorrect - wrong number of points in line "3.4 1 0"
+
+2017-03-26 23:48:09 INFO  DataReader:61 - Input coordinates is incorrect - wrong number of points in line "6.4 3.1 0.6 5 8.1 7.2 9 15.8 4.5"
+
+2017-03-26 23:50:40 INFO  DataReader:69 - Input coordinates is incorrect - wrong coordinates format in line "14 f012ad 8 4 5 10 9.3 6.1"
+
+2017-03-26 23:50:41 INFO  DataReader:61 - Input coordinates is incorrect - wrong number of points in line "3.4 1 0"
+
+2017-03-26 23:50:43 INFO  DataReader:61 - Input coordinates is incorrect - wrong number of points in line "6.4 3.1 0.6 5 8.1 7.2 9 15.8 4.5"
+
+2017-03-26 23:54:14 INFO  DataReader:69 - Input coordinates is incorrect - wrong coordinates format in line "14 f012ad 8 4 5 10 9.3 6.1"
+
+2017-03-26 23:54:14 INFO  DataReader:61 - Input coordinates is incorrect - wrong number of points in line "3.4 1 0"
+
+2017-03-26 23:54:14 INFO  DataReader:61 - Input coordinates is incorrect - wrong number of points in line "6.4 3.1 0.6 5 8.1 7.2 9 15.8 4.5"
+
+2017-03-26 23:55:48 INFO  QuadrangleDataObserver:29 - ObservableEntity entities: 0: Perimeter = 25.661903789690598 Area = 35.0
+
+2017-03-26 23:55:48 INFO  QuadrangleDataObserver:29 - ObservableEntity entities: 0: Perimeter = 32.155926173466256 Area = 52.5
+
+2017-03-26 23:59:45 INFO  QuadrangleDataObserver:29 - ObservableEntity entities: 0: Perimeter = 25.661903789690598 Area = 35.0
+
+2017-03-26 23:59:45 INFO  QuadrangleDataObserver:29 - ObservableEntity entities: 0: Perimeter = 20.0 Area = 25.0
+
+2017-03-27 22:17:59 INFO  DataReader:69 - Input coordinates is incorrect - wrong coordinates format in line "14 f012ad 8 4 5 10 9.3 6.1"
+
+2017-03-27 22:17:59 INFO  DataReader:61 - Input coordinates is incorrect - wrong number of points in line "3.4 1 0"
+
+2017-03-27 22:17:59 INFO  DataReader:61 - Input coordinates is incorrect - wrong number of points in line "6.4 3.1 0.6 5 8.1 7.2 9 15.8 4.5"
+

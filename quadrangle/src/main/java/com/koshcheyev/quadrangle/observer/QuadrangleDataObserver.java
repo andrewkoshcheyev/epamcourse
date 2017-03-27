@@ -38,7 +38,7 @@ public class QuadrangleDataObserver implements QuadrangleObserver {
     public String toString() {
         String output = new String("");
         for (int i=0; i<observables.size();i++){
-            output+="Observable entities: " +
+            output+="ObservableEntity entities: " +
                     observables.keySet().toArray()[i]+": Perimeter = "+
                     observables.get(observables.keySet().toArray()[i]).get(0)+" Area = "+
                     observables.get(observables.keySet().toArray()[i]).get(1)+"\n";

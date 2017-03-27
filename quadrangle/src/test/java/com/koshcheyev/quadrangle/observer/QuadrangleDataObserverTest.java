@@ -9,17 +9,17 @@ import org.junit.Test;
  */
 public class QuadrangleDataObserverTest {
     @Test
-    public void dataObsereverTest() {
+    public void dataObserverTest() {
         Quadrangle quadrangle = new Quadrangle(new Point(0,0),
                 new Point(10,0),
-                new Point(10,10),
-                new Point(0,10));
+                new Point(7,5),
+                new Point(3,5));
         QuadrangleDataObserver dataObserver = new QuadrangleDataObserver(quadrangle);
         dataObserver.logData();
-        quadrangle.setVertices(new Point(5,0),
-                new Point(10,1),
-                new Point(9,8),
-                new Point(7,10));
+        quadrangle.setVertices(new Point(0,0),
+                new Point(5,0),
+                new Point(5,5),
+                new Point(0,5));
         dataObserver.logData();
     }
 

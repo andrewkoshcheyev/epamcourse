@@ -1,6 +1,6 @@
 package com.koshcheyev.quadrangle.entity;
 
-import com.koshcheyev.quadrangle.observer.Observable;
+import com.koshcheyev.quadrangle.observer.ObservableEntity;
 import com.koshcheyev.quadrangle.observer.QuadrangleObserver;
 import com.koshcheyev.quadrangle.processing.QuadragleCalculations;
 import com.koshcheyev.quadrangle.processing.SimpleIDCounter;
@@ -13,7 +13,7 @@ import java.util.LinkedList;
 /**
  * Created by Andrew on 21.03.2017.
  */
-public class Quadrangle implements Observable {
+public class Quadrangle implements ObservableEntity {
 
     private LinkedList<QuadrangleObserver> observers = new LinkedList<QuadrangleObserver>();
     private ArrayList<Point> vertices;
