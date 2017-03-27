@@ -10,7 +10,7 @@ import java.util.ArrayList;
  */
 public class DataReaderTest {
     @Test
-    public void getObjectsVerticies() {
+    public void getObjectsVertices() {
         DataReader testReader = new DataReader("resources/input.txt");
         ArrayList<ArrayList<Point>> vertices = testReader.getObjectsVertices();
     }
